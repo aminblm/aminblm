@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amine M. Boulouma</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Amine Boulouma</h1>
 <h3 align="center">A passionate developer from Morocco 🇲🇦</h3>
 <p align= "center"><img src="https://github.com/amboulouma/amboulouma/blob/master/animation.gif" width="250" height="250"></p>
 
