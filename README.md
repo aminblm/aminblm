@@ -1,4 +1,4 @@
-<h1 align="center">Amine M. Boulouma</h1>
+<h1 align="center">Amin M. Boulouma</h1>
 <h3 align="center">Software Engineer</h3>
 <p align= "center"><img src="https://github.com/amboulouma/amboulouma/blob/master/animation.gif" width="250" height="250"></p>
 
