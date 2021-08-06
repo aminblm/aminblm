@@ -4,5 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/amboulouma" target="blank"><img src="https://img.shields.io/twitter/follow/amboulouma?logo=twitter&style=for-the-badge" alt="amboulouma" /></a> </p>
 
+Join the largest community of programmers, built by programmers for programmers: [community.programmingstudents.com](community.programmingstudents.com) 💻
+
 - 📫 **amine@boulouma.com**
 - 🌐 **[amine.boulouma.com](https://amine.boulouma.com)**
