@@ -1,4 +1,4 @@
-<h1 align="center">Amin Boulouma</h1>
+<h1 align="center">Amin 🐍 </h1>
 <h3 align="center">Python 🐍 </h3>
 <p align= "center"><img src="https://github.com/amboulouma/amboulouma/blob/master/animation.gif" width="250" height="250"></p>
 
