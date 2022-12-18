@@ -1,9 +1,5 @@
 <h1 align="center">Amin 🐍 </h1>
 
-```python
-if input('Join learnwithpython.quora.com 🐍: ') == 'y': print('🐍')
-```
-
 ```bash
 $ python
 Python 3.9.7 (default, Sep 16 2021, 08:50:36)
