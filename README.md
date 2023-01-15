@@ -1,23 +1,28 @@
-# 🙋‍♂️ About Me
+# About Me 👨‍💻
 
-🤖 Hi there, I'm **Amin Boulouma** and I'm a **ChatGPT**, **Content Creation**, **Automation** and **JavaScript** and **Python** enthusiast.
+## Hi, I'm Amin Boulouma 👋
 
-![Amin Boulouma](https://github.com/aminblm.png?size=150)
+I am a **ChatGPT** enthusiast and a **Content Creator** who is passionate about **Automation** and **Web Development**. 
 
-🚀 My main focus is on **ChatGPT** and how it can be used to create engaging and informative content, as well as automating repetitive tasks.
+## Skills 🚀
+- **ChatGPT**: I have experience in building and fine-tuning large language models for various use cases.
+- **Content Creation**: I have experience in creating engaging and informative content for various platforms.
+- **Automation**: I have experience in automating repetitive tasks using various tools and languages.
+- **Web Development**: I have experience in developing web applications using **JavaScript** and **Python**.
 
-💻 I love to share my knowledge and experiences with others, so feel free to check out my **Github** profile for some cool projects and tutorials.
+## Interests 🤔
 
-📚 I have a lot of experience working with **JavaScript** and **Python** and have been using these languages for a while now.
+- **Language Models**: I am interested in learning more about the advancements in the field of language models and their applications.
+- **Content Creation**: I am interested in learning more about the art of creating engaging and informative content.
+- **Automation**: I am interested in learning more about the ways to automate repetitive tasks and increase productivity.
+- **Web Development**: I am interested in learning more about the advancements in the field of web development and its various frameworks.
 
-[![GitHub followers](https://img.shields.io/github/followers/aminblm.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/aminblm/)
-
-[![GitHub stars](https://img.shields.io/github/stars/aminblm/awesome-chatgpt-content-creation-prompts.svg?style=social&label=Star&maxAge=2592000)](https://github.com/aminblm/chatgpt-content-generation)
-
-📌 Feel free to reach out to me on: 
+## Social Media 📱
 
 - Twitter: [@aminblm](https://twitter.com/aminblm)
 - Quora: [@aminblm](https://www.quora.com/profile/Amin-Boulouma)
 - Youtube: [Amin Boulouma](https://www.youtube.com/@aminblm)
 - LinkedIn: [aminblm](https://www.linkedin.com/in/aminblm/)
 
+[![GitHub followers](https://img.shields.io/github/followers/aminblm?label=Follow&style=social)](https://github.com/aminblm)
+[![Twitter Follow](https://img.shields.io/twitter/follow/aminblm?label=Follow&style=social)](https://twitter.com/aminblm)
