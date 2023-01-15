@@ -24,5 +24,5 @@ I am a **ChatGPT** enthusiast and a **Content Creator** who is passionate about 
 - Youtube: [Amin Boulouma](https://www.youtube.com/@aminblm)
 - LinkedIn: [aminblm](https://www.linkedin.com/in/aminblm/)
 
-[![GitHub followers](https://img.shields.io/github/followers/aminblm?label=Follow&style=social)](https://github.com/aminblm)
 [![Twitter Follow](https://img.shields.io/twitter/follow/aminblm?label=Follow&style=social)](https://twitter.com/aminblm)
+[![GitHub followers](https://img.shields.io/github/followers/aminblm?label=Follow&style=social)](https://github.com/aminblm)
