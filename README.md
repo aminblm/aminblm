@@ -1,28 +1,6 @@
-# About Me 👨‍💻
+# Hi, I'm Amin Boulouma 👋
 
-## Hi, I'm Amin Boulouma 👋
-
-I am a **Software Engineer** and **Finance** enthusiast who is passionate about **Automation**, **Cryptocurrencies** and **Web Development**. 
-
-## Skills 🚀
-- **Finance**: I have experience in building and fine-tuning financial models for various use cases.
-- **Content Creation**: I have experience in creating engaging and informative content for various platforms.
-- **Automation**: I have experience in automating repetitive tasks using various tools and languages.
-- **Web Development**: I have experience in developing web applications using **JavaScript** and **Python**.
-
-## Interests 🤔
-
-- **Financial Models**: I am interested in learning more about the advancements in the field of financial models and their applications.
-- **Content Creation**: I am interested in learning more about the art of creating engaging and informative content.
-- **Automation**: I am interested in learning more about the ways to automate repetitive tasks and increase productivity.
-- **Web Development**: I am interested in learning more about the advancements in the field of web development and its various frameworks.
-
-## Social Media 📱
-
-- Twitter: [@aminblm](https://twitter.com/aminblm)
-- Quora: [@aminblm](https://www.quora.com/profile/Amin-Boulouma)
-- Youtube: [Amin Boulouma](https://www.youtube.com/@aminblm)
-- LinkedIn: [aminblm](https://www.linkedin.com/in/aminblm/)
+Software Engineer || Fractional CTO || Freelance || Doing good deeds || Check out my work:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/aminblm?label=Follow&style=social)](https://twitter.com/aminblm)
 [![GitHub followers](https://img.shields.io/github/followers/aminblm?label=Follow&style=social)](https://github.com/aminblm)
