@@ -2,5 +2,5 @@
 
 Software Engineer || Fractional CTO || Freelance || Doing good deeds || Check out my work:
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/aminblm?label=Follow&style=social)](https://twitter.com/aminblm)
+[![Twitter followers](https://img.shields.io/twitter/follow/aminblm?label=Follow&style=social)](https://twitter.com/aminblm)
 [![GitHub followers](https://img.shields.io/github/followers/aminblm?label=Follow&style=social)](https://github.com/aminblm)
