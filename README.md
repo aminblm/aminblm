@@ -6,7 +6,7 @@ Currently enrolled in the [#52WeeksOfAI Challenge](https://transcendai.substack.
 
 ## #52WeeksOfAI Challenge
 
-The [52 weeks of AI challenge](https://transcendai.substack.com/p/52-weeks-of-ai-challenge-building) is challenge where for 52 weeks, a year, we are going to produce 52 AI or AI-assisted ventures, one AI venture a week.
+The [52 weeks of AI challenge](https://transcendai.substack.com/p/52-weeks-of-ai-challenge-building) is a challenge where for 52 weeks, a year, we are going to produce 52 AI or AI-assisted ventures, one AI venture a week.
 
 This challenge has been launched by Amin Boulouma in his [Twitter thread](https://twitter.com/aminblm/status/1664526401888813057?s=20).
 
