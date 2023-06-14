@@ -6,6 +6,9 @@ Currently enrolled in the [#52WeeksOfAI Challenge](https://transcendai.substack.
 
 ## #52WeeksOfAI Challenge
 
+![image](https://github.com/aminblm/aminblm/assets/25132838/062c609d-d32b-4ed7-baeb-d710c319f67a)
+
+
 TL;DR: 52 * $$$ * 😴
 
 The [52 weeks of AI challenge](https://transcendai.substack.com/p/52-weeks-of-ai-challenge-building) is a challenge where for 52 weeks, a year, we are going to produce 52 AI or AI-assisted ventures, one AI venture a week.
