@@ -6,7 +6,7 @@ Currently enrolled in the [#52WeeksOfAI Challenge](https://transcendai.substack.
 
 ## #52WeeksOfAI Challenge
 
-![image](https://github.com/aminblm/aminblm/assets/25132838/062c609d-d32b-4ed7-baeb-d710c319f67a)
+![_AI Ventures  Community  Workshops  Spaces  Podcasts  Masterclasses  Conferences](https://github.com/aminblm/aminblm/assets/25132838/702d3443-3ea5-4e46-b015-d0260a26c1b5)
 
 
 TL;DR: 52 * $$$ * 😴
