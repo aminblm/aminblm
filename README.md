@@ -8,7 +8,6 @@ Currently enrolled in the [#52WeeksOfAI Challenge](https://transcendai.substack.
 
 ![_AI Ventures  Community  Workshops  Spaces  Podcasts  Masterclasses  Conferences](https://github.com/aminblm/aminblm/assets/25132838/702d3443-3ea5-4e46-b015-d0260a26c1b5)
 
-
 TL;DR: 52 * $$$ * 😴
 
 The [52 weeks of AI challenge](https://transcendai.substack.com/p/52-weeks-of-ai-challenge-building) is a challenge where for 52 weeks, a year, we are going to produce 52 AI or AI-assisted ventures, one AI venture a week.
@@ -47,11 +46,39 @@ Our calendar is a collection of events run in the Twitter, LinkedIn and the Disc
 3. Quaterly reports and evaluations. 
 4. Yearly conference and gathering
 
-### Join the challenge:
+## From $1 to $500 Empire: How ChatGPT Revolutionized AI Products in 52 Weeks!
 
-1. Like, retweet and comment “I’m in! #52WeeksOfAI” this [tweet](https://twitter.com/aminblm/status/1664526401888813057?s=20)
-2. Join the [the TranscendAI community](https://transcendai.substack.com/)
-3. Start Engaging with the community and discussing ideas to take them to reality
+Learn how [Amin Boulouma](https://twitter.com/aminblm) built an empire of AI products and achieved massive sales growth. Join [#52WeeksOfAI](https://twitter.com/search?q=%2352WeeksOfAI&src=hashtag_click) now!
+
+![d35b37cd-ad16-4c0c-8ff1-2c48f477bdcb_600x1067](https://github.com/aminblm/awesome-52WeeksOfAI/assets/25132838/4f097dac-9a8a-4a19-a721-57564e241574)
+
+### Step 1: Commit to the Cause
+
+The first step towards your AI-driven venture is to commit to the [#52WeeksOfAI](https://twitter.com/search?q=%2352WeeksOfAI&src=hashtag_click) community. By writing your own version of a tweet that showcases your dedication, you'll join a network of ambitious individuals eager to harness the potential of AI. Craft a tweet that captures your aspirations, like following in the footsteps of **@aminblm**, who achieved a remarkable 500x ROI within a week. Share your thread of thoughts and ideas, inviting others to join you on this exciting journey.
+
+Example Tweet: « 
+
+Following the footsteps of [@aminblm](https://twitter.com/aminblm) on scaling his ventures on [#52WeeksOfAI](https://twitter.com/search?q=%2352WeeksOfAI&src=hashtag_click) from 1$ to 500x ROI within a week’s time.
+
+Now I am taking my chance to build my own AI-driven venture.
+
+Here is how I do it: [A Thread 🧵]
+
+https://twitter.com/aminblm/status/1664526401888813057
+
+»
+
+### Step 2: Do Your Research
+
+To find inspiration and discover what others have accomplished, explore the hashtags [#52WeeksOfAI](https://twitter.com/search?q=%2352WeeksOfAI&src=hashtag_click), [#HustleGPT](https://twitter.com/search?q=%23hustlegpt&src=typed_query&f=top), and [#BuildInPublic](https://twitter.com/search?q=%23buildinpublic&src=typed_query&f=top) on Twitter. Engage with the community, learn from their experiences, and seek out ventures that align with your interests. Once you've identified a concept or product that resonates with you, utilize the power of ChatGPT to refine and validate your ideas. This AI tool will assist you in brainstorming and provide valuable insights to strengthen your venture.
+
+### Step 3: Document Everything in Public
+
+Transparency and documentation are essential in building your audience and creating a brand for your products and ventures. Begin by initiating a thread on Twitter, using the initial tweet from Step 1 as a foundation. Share updates, challenges, and milestones as you progress through your journey. By documenting your process, you not only engage with the community but also leave a valuable trail of your growth and learning. This public sharing will help you build credibility and establish yourself as an authority in the AI space.
+
+### Step 4: Repeat and Scale
+
+Congratulations! You've now built your first AI-driven venture and are ready to take it to the next level. As you start selling your products using tools like Stripe and Paypal, remember to keep the momentum going. Repeat the process on a weekly basis for the coming year, continuously refining your ideas, scaling your ventures, and leveraging AI to drive growth. Embrace the power of iteration, learning from each cycle and applying those insights to improve your outcomes.
 
 
 # <a name="press"></a>📰 In the Press
