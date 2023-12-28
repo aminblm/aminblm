@@ -1,7 +1,15 @@
 # Hi, I'm Amin Boulouma 👋
 
-Systems Engineer and Founder @[Boulouma.com](http://boulouma.com).
+![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)
 
-Let's build the future together and let's connect on my socials.
+![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)
 
-Cheers!
+![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)
+
+👨‍💻 Systems Engineer and Founder @[Boulouma.com](http://boulouma.com). 🌐
+
+Let's build the future together 🚀 and let's connect on my socials. 🤝
+
+To stand with Palestine 🇵🇸: [Awesome #FreePalestine🇦🇪 Support Kit](https://github.com/aminblm/awesome-free-palestine-support-kit) 🌍
+
+Peace upon you! ✌️🕊️
