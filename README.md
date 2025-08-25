@@ -1,6 +1,7 @@
 # Hi, I'm Amin Boulouma 👋
 
 <img width="3148" height="2962" alt="amin pic sq" src="https://github.com/user-attachments/assets/fe08fe52-f233-4af9-873b-64894c13dcc3" />
+<img width="3148" height="2962" alt="amin pic Rounded" src="https://github.com/user-attachments/assets/f056c47a-17a0-4c63-b243-8904ea7a1b76" />
 
 👨‍💻 Systems Engineer and Founder @[Boulouma.com](http://boulouma.com). 🌐
 
