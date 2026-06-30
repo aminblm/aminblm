@@ -1,40 +1,59 @@
 # Amin Boulouma
 ### Software Engineer & Systems Architect
 
-[🏠 Documentation Hub](https://aminblm.github.io/ai_systems_design_from_scratch/) | [📝 Engineering Blog](https://aminblm.github.io/ai_systems_design_from_scratch/) | [💻 GitHub Repository](https://github.com/aminblm)
+## Engineering Portfolio
 
----
+I engineer high-performance infrastructure, intelligent systems, and automated solutions that bridge the gap between technical complexity and business growth. Below are the key tools and frameworks I have developed to solve real-world problems.
 
-> ## ⚡ The Zero-Dependency Manifesto
-> Rebuilding enterprise system backends, network protocols, and core AI infrastructure completely from scratch. No bloated frameworks. No external packages. Pure, deterministic execution from first principles.
+### 🧠 AI & Intelligent Systems
 
----
+* **[AI System Design](https://github.com/aminblm/ai_systems_design_from_scratch)**: Foundational monorepo of modular, high-performance infrastructure for scaling AI workflows.
+* **[Intent Matching Engine](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/intent_matching_engine)**: NLP-driven classification transforming unstructured text into actionable business intent.
+* **[TranslatorAR](https://github.com/aminblm/translatorAR)**: High-fidelity, bidirectional linguistic engine for Arabic and major global languages.
+* **[Opinionytics](https://github.com/aminblm/opinionytics)**: Analytical platform distilling public sentiment into competitive intelligence.
+* **[3aransia](https://github.com/aminblm/3aransia)**: Advanced linguistic framework for Moroccan "Arabizi" (Latin/Digit) script processing.
+* **[Bitcoin Markets](https://github.com/aminblm/bitcoin-markets)**: Analytical suite using quantitative finance and machine learning to decode market behaviors.
 
-## 📝 Latest Architectural Breakdowns
+### 🏗️ Scalable Infrastructure & Backend
 
-### 📂 [AI Systems Design From Scratch: The Zero-Dependency Manifesto](https://aminblm.github.io/ai_systems_design_from_scratch/)
-*June 19, 2026 • `Architecture`*
-A deep-tech architectural blueprint for rebuilding enterprise infrastructure—including distributed load balancers, storage engines, and container daemons—entirely from first principles.
-[Read Breakdown →](https://aminblm.github.io/ai_systems_design_from_scratch/)
+* **[Distributed NoSQL Database](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/distributed_no_sql_database)**: High-availability storage engine engineered for massive scalability.
+* **[Engine Scheduler](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/engine_scheduler)**: Intelligent orchestration for optimizing complex background task loads.
+* **[Round Robin Load Balancer](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/round_robin_load_balancer)**: Precision traffic management for zero-bottleneck backend distribution.
+* **[Socket Server & Client](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/socket_server)**: High-concurrency framework for managing millions of persistent, reliable connections.
+* **[Container Manager](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/container_manager_server)**: Robust service for automated lifecycle management of application containers.
+* **[REST API Server/Client](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/rest_api_server)**: Scalable framework for rapid deployment of high-performance endpoints.
+* **[Realtime Redis Engine](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/realtime_redis_engine)**: Optimized integration for low-latency, real-time data caching.
 
-### 📂 [Log: Evolution of a First-Principles Architectural Paradigm](https://aminblm.github.io/ai_systems_design_from_scratch/)
-*June 19, 2026 • `Engineering Log`*
-A behind-the-scenes look at aggressive refactoring loops, stripping out anti-patterns like global Singletons, and implementing strict SOLID designs over custom text parsers.
-[Read Log →](https://aminblm.github.io/ai_systems_design_from_scratch/)
+### 🚀 Automation & Business Solutions
 
----
+* **[LinkedIn Application Bot](https://github.com/aminblm/linkedin-application-bot)**: Intelligent agent automating job applications based on personalized user preferences.
+* **[Lila](https://github.com/aminblm/lila)**: Secure, blockchain-based SaaS loyalty engine for modern business retention.
+* **[DataEval](https://github.com/aminblm/dataeval)**: Diagnostic application for automated detection and rectification of database integrity errors.
+* **[Snap Clean](https://www.google.com/search?q=https://github.com/aminblm/snap-clean)**: Award-winning social network featuring an augmented reality core for real-time interaction.
+* **[Hirafi](https://www.google.com/search?q=https://github.com/aminblm/hirafi)**: Innovative startup platform providing tech-driven service solutions.
+* **[Editeur.ma](https://www.google.com/search?q=https://github.com/aminblm/editeur-ma)**: Rapid-prototyping service that successfully delivered 20+ functional MVPs for startups.
+* **[Rapide](https://github.com/aminblm/rapide)**: Engaging digital implementation of the RAPIDE board game.
 
-## 🛠️ Core Infrastructure Implemented
+### 🛠️ Developer Tooling & Productivity
 
-* ### 🚀 Custom ElasticSearch Clone
-    JSON DSL query parsing, custom token aggregations, and distributed sharding algorithms built natively in pure Python.
-* ### 🐳 Custom Docker Daemon Engine
-    Stream-oriented orchestration servers and raw socket-multiplexed CLI clients engineered from scratch.
-* ### ⚖️ Fault-Tolerant Load Balancer
-    Failover routing coordinators and functional backend pool proxies over native network sockets.
-* ### 💾 In-Memory Key-Value Store
-    Stateful, dictionary-backed cache engine utilizing native RDB snapshotting and Append-Only File (AOF) logging.
+* **[Debugger & Logger](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/debugger)**: Diagnostic suites for total observability in high-throughput environments.
+* **[Site & Architecture Generator](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/site_generator)**: Automation tools for generating site content and architectural documentation.
+* **[Safe YAML Parser](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/safe_yaml_parser)**: Security-hardened configuration parsing to mitigate execution risks.
+* **[Scalable Index](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/scalable_index)**: Indexing engine optimized for rapid, high-volume data retrieval.
+* **[LocalStack](https://github.com/localstack/localstack)**: Contributing to the industry-standard local AWS cloud emulator.
+* **[Datastructures](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/datastructures)**: Curated library of highly optimized, custom-built data structures.
+* **[Exceptions](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/exceptions)**: Hierarchical error-handling framework for predictable application states.
+* **[Git RPC Server/Client](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/git_rpc_client)**: RPC handler facilitating remote operations over Git protocols.
+* **[MD_HTML](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/md_html)**: Precision parser converting Markdown into semantic HTML.
+* **[Process Posts](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/process_posts)**: Pipeline tool for automated blog content transformation.
+* **[Reactive Frontend](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/reactive_frontend)**: Reactive framework for real-time, event-driven state updates.
+* **[Slug Generator](https://github.com/aminblm/ai_systems_design_from_scratch/blob/main/ai_system_design/slug_generator)**: Utility for SEO-optimized URL generation.
+* **[Book Cover Designer](https://github.com/aminblm/book-cover-designer)**: Automated, creative design tool for high-quality visual output.
 
----
+### 🎓 Expert Knowledge Transfer
 
-*aminblm.github.io is maintained by [aminblm](https://github.com/aminblm) · Built from first principles.*
+* **[Engineering Blog](https://aminblm.github.io/ai_systems_design_from_scratch/blog/)**: Technical journal documenting the architecture of complex systems built from scratch.
+* **[Global AI Hub](https://globalaihub.com/)**: Core contribution to a premier community developing educational resources for AI professionals.
+* **[Python Engineering Channel](https://www.youtube.com/aminemboulouma)**: Educational repository providing tutorials on Python, data science, and engineering best practices.
+* **[Workshops](https://github.com/aminblm/elasticsearch-workshop)**: Hands-on curricula for **[ElasticSearch](https://github.com/aminblm/elasticsearch-workshop)**, **[MongoDB](https://github.com/aminblm/mongodb-python-workshop)**, and **[Flask APIs](https://github.com/aminblm/flask-api-workshop)**.
+
